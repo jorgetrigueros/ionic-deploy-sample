@@ -1,0 +1,8 @@
+{
+  "name": "ionic-deploy-sample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ecca213b"
+}
